@@ -7,11 +7,11 @@
  *
  */
 
-int _abs(int a)
+int _abs(int n)
 {
-	if (a > 0)
-		return (a);
+	if (n > 0)
+		return (n);
 	else 
-		return (a * -1);
+		return (n * -1);
 }
 
