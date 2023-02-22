@@ -7,7 +7,7 @@
  * 
  */
 
-int _putchar (char c)
+int _putchar (void)
 {
 	_putchar('p');
 	_putchar('u');
