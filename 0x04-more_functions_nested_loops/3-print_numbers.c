@@ -10,7 +10,7 @@ void print_numbers(void)
 {
 	int c;
 
-	for (c = 30; c < 40; c++)
+	for (c = 31; c < 41; c++)
 	{
 		_putchar(c);
 	}
